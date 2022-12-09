@@ -34,6 +34,9 @@ const seed = async () => {
     console.log("Shows and User database info populated!")
 }
 
+<<<<<<< HEAD
 seed();
+=======
+>>>>>>> 4b362a54c4797efd7c668b6e4022c438e881be7b
 //export my seed function
 module.exports = seed;

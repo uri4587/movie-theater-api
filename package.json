@@ -5,14 +5,21 @@
   "main": "db.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+<<<<<<< HEAD
     "seed": "node seed.js",
+=======
+>>>>>>> 4b362a54c4797efd7c668b6e4022c438e881be7b
     "start": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "express": "^4.18.2",
     "express-validator": "^6.14.2",
+=======
+    "express": "^4.17.2",
+>>>>>>> 4b362a54c4797efd7c668b6e4022c438e881be7b
     "nodemon": "^2.0.15",
     "sequelize": "^6.21.4",
     "sqlite3": "^5.0.11"
